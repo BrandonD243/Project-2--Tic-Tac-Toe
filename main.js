@@ -80,7 +80,7 @@ function handleTurn(event)
         board[i] = turn;                       
         if (turn === 'X')
         {
-            turn = 'O';
+            turn = 'X';
         }
         else 
         {
